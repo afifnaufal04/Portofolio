@@ -1,7 +1,7 @@
 .navbar a{
     text-decoration: none;
     cursor: pointer;
-    padding: 10px 30px;
+    padding: 10px 20px;
 }
 .navbar a:hover{
     background-color: #5FBDFF;
